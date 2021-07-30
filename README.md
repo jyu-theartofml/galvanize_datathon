@@ -15,7 +15,7 @@ Several jupyter notebooks are created with prefix that corresponds to the work f
 - `2_time_series_analysis.ipynb` analyzed the Price data using the opens source Libray Kats (Note: this was ran on COLAB because Paperspace instance couldn't support the installation for `Kats`).
 - `3_data_viz.ipynb` is the Dash plot that bundles everything together for some high level data visualization.
 
-The Dash app does take some time to load and udpate. It has one drop down tab where the user can select the zone/region and the plots will update accordingly. The Entropy metric is based on the time series feature (TSFeature) extraction from `Kats` (click [here](https://github.com/facebookresearch/Kats) for more details), and is calculated as Shannon entropy and it captures the uncertainty in a distribution. The higher the entropy the more unpredictable the price time series are. A screen snapshot of the dashboard is shown below.
+The Dash app does take some time to load and udpate. It has one drop down tab where the user can select the zone/region and the plots will update accordingly. The Entropy metric is based on the time series feature (TSFeature) extraction from `Kats` (click [here](https://github.com/facebookresearch/Kats) for more details), and is calculated as Shannon entropy as it captures the uncertainty in a distribution. The higher the entropy the more unpredictable the price time series become. A screen snapshot of the dashboard is shown below.
 
 <img width="891" alt="dash_entropy" src="https://user-images.githubusercontent.com/7095892/127686374-8b1d82e4-f883-404e-932f-f8a8b9fbfdec.png">
 
