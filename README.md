@@ -1,7 +1,7 @@
 ## Repo for the Datathon hosted by Galvanize. 
 
 ### Objective
-The objective is to leverage the data fron NY Independent System Operator (ISO), which operates in the energy market, and extract insights and patterns.
+The objective is to leverage the data from NY Independent System Operator (ISO), which operates in the energy market, and extract insights and patterns.
 
 ### Technologies
 The project was developed using Paperspace Gradient notebook (courtesy of Galvanize), RapidsAI, Dash, Plotly, and Kats.
